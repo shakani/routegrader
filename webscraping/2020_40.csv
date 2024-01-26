@@ -1,0 +1,409 @@
+,holds,grades
+0,"[('A4', 'start'), ('B7', 'hold'), ('E5', 'start'), ('E11', 'hold'), ('G8', 'hold'), ('I12', 'end'), ('J12', 'end')]",6C
+1,"[('D9', 'hold'), ('H12', 'end'), ('H7', 'hold'), ('J5', 'start')]",6C
+2,"[('C12', 'end'), ('F12', 'hold'), ('F6', 'start'), ('H3', 'start'), ('J7', 'hold'), ('K7', 'hold'), ('K11', 'hold')]",6C
+3,"[('E6', 'start'), ('E11', 'hold'), ('F6', 'start'), ('I12', 'hold'), ('J12', 'hold'), ('K12', 'end')]",6C
+4,"[('C4', 'start'), ('E7', 'hold'), ('F5', 'start'), ('F2', 'hold'), ('G7', 'hold'), ('H12', 'end'), ('I9', 'hold'), ('I11', 'hold'), ('K12', 'end')]",6C
+5,"[('F12', 'end'), ('F2', 'hold'), ('H8', 'hold'), ('J5', 'start'), ('K8', 'hold'), ('K11', 'hold')]",6C
+6,"[('A6', 'start'), ('C10', 'hold'), ('E8', 'hold'), ('F4', 'start'), ('H11', 'hold'), ('H10', 'hold'), ('J12', 'end'), ('J5', 'hold'), ('K12', 'end')]",6C
+7,"[('B5', 'hold'), ('C12', 'end'), ('E3', 'hold'), ('E11', 'hold'), ('F10', 'hold'), ('G5', 'start'), ('J10', 'hold'), ('K3', 'start'), ('K7', 'hold')]",6C
+8,"[('C12', 'end'), ('E9', 'hold'), ('E10', 'hold'), ('I8', 'hold'), ('J6', 'start'), ('J5', 'start')]",6C
+9,"[('A3', 'start'), ('C8', 'hold'), ('D4', 'start'), ('F11', 'hold'), ('G12', 'hold'), ('I5', 'hold'), ('J12', 'end'), ('K12', 'end')]",6C
+10,"[('C12', 'end'), ('E7', 'hold'), ('E11', 'hold'), ('E12', 'end'), ('F2', 'hold'), ('I7', 'hold'), ('J10', 'hold'), ('J5', 'start')]",6C
+11,"[('E5', 'start'), ('E9', 'hold'), ('F10', 'hold'), ('G6', 'start'), ('J10', 'hold'), ('K12', 'end')]",6C
+12,"[('D6', 'start'), ('F12', 'end'), ('F6', 'start'), ('K2', 'hold')]",6C
+13,"[('A6', 'start'), ('B12', 'end'), ('D10', 'hold')]",6C
+14,"[('B4', 'hold'), ('C12', 'end'), ('E7', 'hold'), ('G10', 'hold'), ('I8', 'hold'), ('J5', 'start')]",6C
+15,"[('C12', 'end'), ('D12', 'end'), ('F9', 'hold'), ('G5', 'start'), ('J11', 'hold'), ('K4', 'start'), ('K7', 'hold')]",6C
+16,"[('A8', 'hold'), ('C6', 'start'), ('C11', 'hold'), ('D12', 'hold'), ('E6', 'start'), ('G4', 'hold'), ('G12', 'end'), ('H11', 'hold'), ('K12', 'end')]",6C
+17,"[('E7', 'hold'), ('G12', 'end'), ('H9', 'hold'), ('I4', 'start'), ('K7', 'hold')]",6B+
+18,"[('A2', 'hold'), ('A9', 'hold'), ('B7', 'hold'), ('C11', 'hold'), ('D12', 'end'), ('E3', 'start'), ('F12', 'end'), ('G7', 'hold'), ('J6', 'start')]",6B+
+19,"[('C12', 'end'), ('D12', 'end'), ('D9', 'hold'), ('G5', 'start'), ('H11', 'hold'), ('J6', 'start')]",6B+
+20,"[('B5', 'start'), ('C8', 'hold'), ('E6', 'start'), ('F2', 'hold'), ('G10', 'hold'), ('G12', 'end')]",6B+
+21,"[('C5', 'start'), ('E10', 'hold'), ('F6', 'start'), ('H12', 'end')]",6B+
+22,"[('C5', 'start'), ('C12', 'end'), ('D6', 'start'), ('F12', 'end'), ('G11', 'hold'), ('H7', 'hold')]",6B+
+23,"[('F2', 'hold'), ('G7', 'hold'), ('H12', 'end'), ('J11', 'hold'), ('J5', 'start'), ('K7', 'hold')]",6B+
+24,"[('D12', 'end'), ('E10', 'hold'), ('E12', 'end'), ('F8', 'hold'), ('G9', 'hold'), ('J6', 'start'), ('K3', 'start')]",6B+
+25,"[('D12', 'end'), ('E4', 'start'), ('G11', 'hold'), ('H11', 'hold'), ('H7', 'hold'), ('H4', 'start'), ('J9', 'hold')]",6B+
+26,"[('B10', 'hold'), ('B7', 'hold'), ('C12', 'end'), ('D7', 'hold'), ('E3', 'hold'), ('G5', 'hold'), ('G7', 'hold'), ('J6', 'start')]",6B+
+27,"[('A4', 'hold'), ('A12', 'end'), ('C12', 'end'), ('D11', 'hold'), ('G5', 'start'), ('H10', 'hold'), ('I11', 'hold'), ('J4', 'start'), ('K7', 'hold')]",6B+
+28,"[('C12', 'end'), ('D6', 'start'), ('F12', 'hold'), ('G5', 'start'), ('G11', 'hold'), ('J9', 'hold'), ('J6', 'hold')]",6B+
+29,"[('A6', 'start'), ('F8', 'hold'), ('F6', 'hold'), ('H10', 'hold'), ('J12', 'end'), ('J9', 'hold'), ('K12', 'end')]",6B+
+30,"[('A4', 'start'), ('C8', 'hold'), ('D11', 'hold'), ('D6', 'start'), ('E10', 'hold'), ('H12', 'end')]",6B+
+31,"[('D5', 'start'), ('E3', 'start'), ('F12', 'end'), ('F8', 'hold'), ('I8', 'hold')]",6B+
+32,"[('C12', 'end'), ('G4', 'start'), ('I8', 'hold'), ('I11', 'hold'), ('J4', 'start')]",6B+
+33,"[('B5', 'start'), ('C8', 'hold'), ('G4', 'start'), ('G8', 'hold'), ('G12', 'end')]",6B+
+34,"[('D10', 'hold'), ('D6', 'start'), ('E8', 'hold'), ('F4', 'start'), ('H12', 'end'), ('H11', 'hold'), ('I4', 'hold'), ('I12', 'end')]",6B+
+35,"[('C12', 'end'), ('E10', 'hold'), ('F2', 'hold'), ('G8', 'hold'), ('J9', 'hold'), ('J6', 'start'), ('K6', 'start')]",6B+
+36,"[('C12', 'end'), ('E9', 'hold'), ('F11', 'hold'), ('F2', 'hold'), ('G5', 'start'), ('H7', 'hold')]",6B+
+37,"[('A6', 'start'), ('A9', 'hold'), ('C11', 'hold'), ('C12', 'hold'), ('H9', 'hold'), ('J12', 'end'), ('J5', 'hold'), ('K12', 'end')]",6B+
+38,"[('A6', 'start'), ('D4', 'hold'), ('F6', 'hold'), ('G11', 'hold'), ('H12', 'end'), ('H9', 'hold'), ('K12', 'end')]",6B+
+39,"[('D6', 'start'), ('D3', 'start'), ('F10', 'hold'), ('G7', 'hold'), ('I12', 'end'), ('J10', 'hold')]",6B+
+40,"[('D4', 'start'), ('F10', 'hold'), ('H7', 'hold'), ('J12', 'end'), ('J3', 'start')]",6C
+41,"[('G4', 'start'), ('G12', 'end'), ('J7', 'hold'), ('J4', 'start'), ('K9', 'hold')]",6C
+42,"[('F12', 'end'), ('F2', 'hold'), ('G5', 'start'), ('J4', 'start'), ('K9', 'hold')]",6C
+43,"[('A9', 'hold'), ('D4', 'start'), ('F11', 'hold'), ('G11', 'hold'), ('I5', 'hold'), ('K12', 'end')]",6C
+44,"[('C6', 'start'), ('E6', 'start'), ('E9', 'hold'), ('G12', 'end'), ('I10', 'hold'), ('K12', 'end')]",6C
+45,"[('D12', 'end'), ('H11', 'hold'), ('H10', 'hold'), ('J9', 'hold'), ('J5', 'start')]",6C
+46,"[('A7', 'hold'), ('B11', 'hold'), ('B9', 'hold'), ('D4', 'start'), ('G12', 'end')]",6C
+47,"[('D4', 'start'), ('G4', 'start'), ('I8', 'hold'), ('J9', 'hold'), ('K12', 'end')]",6C
+48,"[('B5', 'start'), ('C5', 'start'), ('E9', 'hold'), ('F6', 'hold'), ('G12', 'end'), ('J8', 'hold'), ('K12', 'end')]",6C
+49,"[('B3', 'start'), ('C10', 'hold'), ('E6', 'start'), ('G10', 'hold'), ('G12', 'hold'), ('I5', 'hold'), ('K12', 'end')]",6C
+50,"[('A4', 'start'), ('C8', 'hold'), ('E6', 'start'), ('F10', 'hold'), ('G9', 'hold'), ('I12', 'end'), ('J11', 'hold'), ('K12', 'end')]",6C
+51,"[('A12', 'end'), ('C10', 'hold'), ('D12', 'end'), ('E3', 'start'), ('F8', 'hold'), ('J6', 'start')]",6C
+52,"[('B7', 'hold'), ('B4', 'start'), ('C12', 'hold'), ('D4', 'start'), ('E9', 'hold'), ('H12', 'end')]",6C
+53,"[('B5', 'start'), ('C8', 'hold'), ('E6', 'start'), ('G12', 'end')]",6C
+54,"[('A5', 'start'), ('A8', 'hold'), ('C12', 'end'), ('E7', 'hold'), ('F6', 'start'), ('F4', 'hold')]",6C
+55,"[('C5', 'start'), ('F8', 'hold'), ('H12', 'hold'), ('H10', 'hold'), ('H4', 'start'), ('K12', 'end')]",6C
+56,"[('D9', 'hold'), ('E3', 'start'), ('F6', 'hold'), ('H3', 'start'), ('I12', 'end'), ('J11', 'hold'), ('K12', 'end')]",6C
+57,"[('B5', 'start'), ('C6', 'start'), ('C8', 'hold'), ('G11', 'hold'), ('H7', 'hold'), ('K12', 'end')]",6C
+58,"[('D9', 'hold'), ('D6', 'start'), ('G11', 'hold'), ('I2', 'start'), ('I7', 'hold'), ('J12', 'end'), ('J10', 'hold'), ('K12', 'end')]",6C
+59,"[('G4', 'start'), ('G12', 'end'), ('I10', 'hold'), ('J7', 'hold'), ('J4', 'start')]",6C
+60,"[('E6', 'start'), ('G8', 'hold'), ('H12', 'end'), ('I6', 'start'), ('J9', 'hold')]",6C
+61,"[('A6', 'start'), ('B7', 'hold'), ('C12', 'end'), ('F2', 'hold'), ('G8', 'hold')]",6C
+62,"[('A12', 'end'), ('C6', 'hold'), ('G3', 'hold'), ('G10', 'hold'), ('G12', 'end'), ('H6', 'start'), ('J4', 'start'), ('K9', 'hold')]",6C
+63,"[('B5', 'start'), ('C8', 'hold'), ('E6', 'start'), ('E12', 'end')]",6C
+64,"[('E3', 'start'), ('G7', 'hold'), ('G11', 'hold'), ('I3', 'start'), ('K12', 'end')]",6C
+65,"[('A12', 'end'), ('B12', 'end'), ('C11', 'hold'), ('F10', 'hold'), ('G5', 'start'), ('G12', 'hold'), ('J7', 'hold'), ('J5', 'start')]",6C
+66,"[('A6', 'start'), ('A8', 'hold'), ('E10', 'hold'), ('F12', 'end')]",6C
+67,"[('B3', 'start'), ('D4', 'start'), ('F10', 'hold'), ('G6', 'hold'), ('G9', 'hold'), ('I12', 'end'), ('J12', 'end')]",6C
+68,"[('A12', 'end'), ('C12', 'end'), ('D12', 'hold'), ('E3', 'start'), ('G5', 'start'), ('G11', 'hold'), ('J11', 'hold'), ('J6', 'hold')]",6C
+69,"[('D4', 'start'), ('E6', 'start'), ('F8', 'hold'), ('G10', 'hold'), ('H12', 'end')]",6C
+70,"[('A6', 'start'), ('F8', 'hold'), ('F6', 'hold'), ('I12', 'end'), ('J9', 'hold')]",6C
+71,"[('A7', 'hold'), ('A12', 'end'), ('B12', 'end'), ('E12', 'hold'), ('F11', 'hold'), ('G4', 'start'), ('J10', 'hold'), ('J7', 'hold'), ('J4', 'start')]",6C
+72,"[('A6', 'start'), ('B7', 'hold'), ('F4', 'hold'), ('G9', 'hold'), ('G11', 'hold'), ('H12', 'end')]",6C
+73,"[('A6', 'start'), ('A12', 'end'), ('B12', 'end'), ('B7', 'hold'), ('D11', 'hold'), ('E12', 'hold'), ('F4', 'hold'), ('F2', 'hold'), ('H9', 'hold')]",6C
+74,"[('A6', 'start'), ('C8', 'hold'), ('F8', 'hold'), ('G11', 'hold'), ('I12', 'end'), ('K12', 'end')]",6C
+75,"[('B5', 'start'), ('D9', 'hold'), ('G4', 'start'), ('J12', 'end'), ('J11', 'hold'), ('K12', 'end')]",6C
+76,"[('A6', 'start'), ('C8', 'hold'), ('F2', 'hold'), ('G8', 'hold'), ('G11', 'hold'), ('I12', 'end'), ('K5', 'hold')]",6C
+77,"[('G4', 'start'), ('I8', 'hold'), ('J4', 'start'), ('K12', 'end')]",6C
+78,"[('D4', 'start'), ('G12', 'end'), ('I8', 'hold')]",6C
+79,"[('A12', 'end'), ('B12', 'end'), ('C3', 'start'), ('D12', 'hold'), ('D6', 'start'), ('H9', 'hold')]",6C
+80,"[('E3', 'start'), ('E10', 'hold'), ('H3', 'start'), ('I3', 'hold'), ('J4', 'hold'), ('K12', 'end')]",8A+
+81,"[('A4', 'hold'), ('A12', 'end'), ('C11', 'hold'), ('H12', 'hold'), ('J6', 'start'), ('K3', 'hold')]",8A
+82,"[('C6', 'start'), ('D12', 'hold'), ('F6', 'start'), ('K12', 'end')]",8A
+83,"[('A6', 'hold'), ('A12', 'end'), ('B11', 'hold'), ('F11', 'hold'), ('H10', 'hold'), ('I3', 'start'), ('K6', 'start'), ('K10', 'hold')]",8A
+84,"[('A12', 'end'), ('B11', 'hold'), ('B3', 'hold'), ('D8', 'hold'), ('F2', 'start'), ('H10', 'hold'), ('I6', 'start')]",8A
+85,"[('B6', 'start'), ('G9', 'hold'), ('H12', 'end')]",7C+
+86,"[('B6', 'start'), ('D9', 'hold'), ('F10', 'hold'), ('K12', 'end')]",7C+
+87,"[('E6', 'start'), ('G12', 'end'), ('H6', 'hold')]",7C+
+88,"[('A6', 'start'), ('C12', 'hold'), ('F9', 'hold'), ('H12', 'hold'), ('I3', 'hold'), ('K12', 'end')]",7C+
+89,"[('D12', 'hold'), ('D5', 'start'), ('G3', 'start'), ('H12', 'hold'), ('I7', 'hold'), ('K12', 'end')]",7C+
+90,"[('A12', 'end'), ('F11', 'hold'), ('G8', 'hold'), ('I3', 'start'), ('I10', 'hold'), ('J4', 'start')]",7C+
+91,"[('B12', 'end'), ('C5', 'start'), ('G6', 'start'), ('G9', 'hold')]",7C+
+92,"[('B12', 'end'), ('F9', 'hold'), ('F7', 'hold'), ('J6', 'start')]",7C
+93,"[('C3', 'start'), ('C4', 'start'), ('F9', 'hold'), ('G11', 'hold'), ('I3', 'hold'), ('K12', 'end')]",7C
+94,"[('D8', 'hold'), ('E6', 'start'), ('H12', 'hold'), ('J10', 'hold'), ('K12', 'end')]",7C
+95,"[('C12', 'end'), ('E9', 'hold'), ('J6', 'start')]",7C
+96,"[('C5', 'start'), ('E8', 'hold'), ('E12', 'hold'), ('G5', 'start'), ('K12', 'end')]",7C
+97,"[('A5', 'hold'), ('A12', 'end'), ('B12', 'end'), ('E12', 'hold'), ('H11', 'hold'), ('I6', 'start'), ('K5', 'start'), ('K10', 'hold')]",7C
+98,"[('B5', 'start'), ('C6', 'start'), ('C10', 'hold'), ('F11', 'hold'), ('H6', 'hold'), ('K12', 'end')]",7C
+99,"[('C4', 'start'), ('E12', 'hold'), ('F4', 'start'), ('G8', 'hold'), ('H2', 'hold'), ('I12', 'end')]",7C
+100,"[('C5', 'start'), ('E8', 'hold'), ('G5', 'start'), ('H11', 'hold'), ('J12', 'hold'), ('K12', 'end')]",7C
+101,"[('B5', 'start'), ('F10', 'hold'), ('H11', 'hold'), ('K12', 'end')]",7C
+102,"[('A12', 'end'), ('D12', 'hold'), ('D11', 'hold'), ('G5', 'start'), ('J2', 'start'), ('K9', 'hold')]",7C
+103,"[('B12', 'end'), ('B3', 'start'), ('C7', 'hold'), ('F10', 'hold'), ('F4', 'start')]",7B+
+104,"[('A4', 'hold'), ('A12', 'end'), ('B11', 'hold'), ('D11', 'hold'), ('F3', 'start'), ('G5', 'start'), ('H10', 'hold'), ('J9', 'hold')]",7B+
+105,"[('E6', 'start'), ('H6', 'start'), ('J12', 'end'), ('K9', 'hold')]",7B+
+106,"[('D4', 'start'), ('F9', 'hold'), ('G4', 'start'), ('H12', 'end')]",7B+
+107,"[('A12', 'end'), ('B11', 'hold'), ('F11', 'hold'), ('G4', 'start'), ('I9', 'hold')]",7B+
+108,"[('B10', 'hold'), ('C4', 'start'), ('E8', 'hold'), ('H11', 'hold'), ('H4', 'start'), ('I11', 'hold'), ('K12', 'end')]",7B+
+109,"[('B11', 'hold'), ('E8', 'hold'), ('F12', 'end'), ('F7', 'hold'), ('J5', 'start')]",7B+
+110,"[('A12', 'end'), ('B12', 'end'), ('E2', 'start'), ('E6', 'start'), ('G12', 'hold'), ('J12', 'hold'), ('J7', 'hold'), ('J4', 'hold'), ('K12', 'hold')]",7B+
+111,"[('A4', 'hold'), ('A12', 'end'), ('D11', 'hold'), ('D8', 'hold'), ('F4', 'hold'), ('H4', 'start'), ('H3', 'start'), ('J5', 'hold')]",7B+
+112,"[('B5', 'start'), ('E9', 'hold'), ('G10', 'hold'), ('J12', 'end')]",7B+
+113,"[('C5', 'start'), ('F3', 'start'), ('H12', 'end'), ('H7', 'hold'), ('J11', 'hold'), ('K4', 'hold')]",7B+
+114,"[('B5', 'start'), ('E9', 'hold'), ('G11', 'hold'), ('K12', 'end')]",7B+
+115,"[('B5', 'start'), ('D8', 'hold'), ('E6', 'start'), ('G8', 'hold'), ('H12', 'end')]",7B+
+116,"[('A12', 'end'), ('C2', 'hold'), ('C10', 'hold'), ('D8', 'hold'), ('H6', 'start'), ('I3', 'start')]",7B+
+117,"[('A12', 'end'), ('C12', 'hold'), ('F2', 'hold'), ('G6', 'start'), ('G8', 'hold'), ('H6', 'start'), ('J2', 'hold')]",7B
+118,"[('A3', 'hold'), ('A12', 'end'), ('C10', 'hold'), ('D11', 'hold'), ('H6', 'start'), ('I3', 'start'), ('I8', 'hold')]",7B
+119,"[('A12', 'end'), ('D4', 'hold'), ('G3', 'hold'), ('G12', 'hold'), ('H11', 'hold'), ('H6', 'start'), ('K6', 'start'), ('K10', 'hold')]",7B
+120,"[('A2', 'start'), ('D2', 'hold'), ('F11', 'hold'), ('F7', 'hold'), ('F5', 'start'), ('J12', 'end'), ('J8', 'hold'), ('K2', 'hold')]",7A+
+121,"[('B6', 'start'), ('C9', 'hold'), ('E5', 'start'), ('E12', 'hold'), ('F9', 'hold'), ('I5', 'hold'), ('I12', 'hold'), ('K12', 'end')]",7A+
+122,"[('A2', 'start'), ('B8', 'hold'), ('D10', 'hold'), ('D4', 'start'), ('E12', 'hold'), ('I11', 'hold'), ('I12', 'hold'), ('J4', 'hold'), ('K12', 'end')]",7A+
+123,"[('A12', 'end'), ('C9', 'hold'), ('E12', 'hold'), ('H7', 'hold'), ('J5', 'start')]",7A+
+124,"[('A6', 'start'), ('G8', 'hold'), ('G10', 'hold'), ('K5', 'hold'), ('K12', 'end')]",7A+
+125,"[('B12', 'end'), ('E12', 'end'), ('G9', 'hold'), ('J5', 'start')]",7A+
+126,"[('E10', 'hold'), ('G5', 'start'), ('H11', 'hold'), ('J6', 'start'), ('K12', 'end')]",7A+
+127,"[('B12', 'end'), ('B3', 'start'), ('C12', 'end'), ('E7', 'hold'), ('H11', 'hold'), ('H4', 'start'), ('J8', 'hold')]",7A+
+128,"[('A5', 'start'), ('C7', 'hold'), ('E10', 'hold'), ('F11', 'hold'), ('F4', 'start'), ('F2', 'hold'), ('H12', 'end')]",7A+
+129,"[('A4', 'hold'), ('A8', 'hold'), ('B7', 'hold'), ('C3', 'start'), ('C4', 'start'), ('D11', 'hold'), ('G7', 'hold'), ('H12', 'end')]",7A+
+130,"[('B3', 'start'), ('E7', 'hold'), ('F6', 'start'), ('F2', 'hold'), ('G12', 'hold'), ('J7', 'hold'), ('K2', 'hold'), ('K12', 'end')]",7A+
+131,"[('A2', 'hold'), ('A5', 'start'), ('A10', 'hold'), ('B5', 'start'), ('F11', 'hold'), ('H11', 'hold'), ('J4', 'hold'), ('K12', 'end')]",7A+
+132,"[('D4', 'start'), ('I5', 'start'), ('I8', 'hold'), ('J12', 'end')]",7A+
+133,"[('E9', 'hold'), ('G4', 'start'), ('H12', 'hold'), ('K12', 'end')]",7A+
+134,"[('B6', 'start'), ('C4', 'start'), ('F12', 'hold'), ('G7', 'hold'), ('I5', 'hold'), ('K12', 'end')]",7A+
+135,"[('A2', 'hold'), ('A12', 'end'), ('C10', 'hold'), ('D8', 'hold'), ('F2', 'start'), ('H6', 'start'), ('I8', 'hold')]",7A+
+136,"[('B12', 'end'), ('C3', 'start'), ('D12', 'end'), ('E3', 'start'), ('G8', 'hold'), ('H9', 'hold')]",7A+
+137,"[('A12', 'end'), ('B12', 'end'), ('H9', 'hold'), ('I5', 'start'), ('K6', 'start')]",7A
+138,"[('A4', 'hold'), ('B12', 'end'), ('C9', 'hold'), ('C11', 'hold'), ('F7', 'hold'), ('F6', 'hold'), ('J5', 'start')]",7A
+139,"[('C12', 'end'), ('D4', 'hold'), ('G4', 'start'), ('G12', 'hold'), ('J9', 'hold'), ('J6', 'start')]",7A
+140,"[('A6', 'start'), ('A8', 'hold'), ('A11', 'hold'), ('E4', 'hold'), ('F10', 'hold'), ('G11', 'hold'), ('J4', 'hold'), ('K12', 'end')]",7A
+141,"[('B9', 'hold'), ('D4', 'start'), ('G10', 'hold'), ('H12', 'end')]",7A
+142,"[('B9', 'hold'), ('D12', 'hold'), ('E12', 'hold'), ('F7', 'hold'), ('F6', 'hold'), ('G3', 'start'), ('H12', 'end'), ('J4', 'start')]",7A
+143,"[('B5', 'start'), ('C6', 'start'), ('C8', 'hold'), ('D11', 'hold'), ('G5', 'hold'), ('H11', 'hold'), ('J12', 'end'), ('J11', 'hold'), ('K12', 'end')]",7A
+144,"[('B12', 'end'), ('D12', 'end'), ('D4', 'hold'), ('G8', 'hold'), ('H12', 'hold'), ('J5', 'start'), ('J2', 'hold'), ('K7', 'hold')]",7A
+145,"[('B7', 'hold'), ('C11', 'hold'), ('D12', 'end'), ('H7', 'hold'), ('J5', 'start')]",7A
+146,"[('A4', 'start'), ('D9', 'hold'), ('E5', 'start'), ('G12', 'hold'), ('K12', 'end')]",7A
+147,"[('B3', 'start'), ('E6', 'start'), ('E10', 'hold'), ('J12', 'end'), ('J11', 'hold'), ('K12', 'end')]",7A
+148,"[('C9', 'hold'), ('E12', 'end'), ('F6', 'hold'), ('G5', 'start'), ('K3', 'start')]",7A
+149,"[('C10', 'hold'), ('E3', 'start'), ('F8', 'hold'), ('G12', 'hold'), ('H12', 'hold'), ('J6', 'start'), ('K12', 'end')]",7A
+150,"[('A12', 'end'), ('B12', 'end'), ('D6', 'start'), ('F8', 'hold'), ('G12', 'hold'), ('H12', 'hold'), ('H3', 'start'), ('I10', 'hold')]",7A
+151,"[('A12', 'end'), ('C3', 'start'), ('C11', 'hold'), ('C12', 'hold'), ('E5', 'start'), ('H12', 'hold'), ('H7', 'hold'), ('K10', 'hold')]",7A
+152,"[('C3', 'start'), ('C4', 'start'), ('G8', 'hold'), ('G11', 'hold'), ('J3', 'hold'), ('K12', 'end')]",7A
+153,"[('A12', 'end'), ('B12', 'end'), ('D4', 'hold'), ('G12', 'hold'), ('H8', 'hold'), ('I4', 'start'), ('I12', 'hold'), ('K8', 'hold')]",7A
+154,"[('D5', 'start'), ('F8', 'hold'), ('H12', 'end'), ('H11', 'hold'), ('I5', 'start'), ('K12', 'end')]",7A
+155,"[('F8', 'hold'), ('G4', 'start'), ('H12', 'end')]",7A
+156,"[('A2', 'hold'), ('A12', 'end'), ('B12', 'end'), ('C4', 'hold'), ('E10', 'hold'), ('G5', 'start'), ('G7', 'hold'), ('K3', 'start')]",7A
+157,"[('D4', 'hold'), ('F9', 'hold'), ('F2', 'hold'), ('I12', 'hold'), ('J12', 'end'), ('J7', 'hold'), ('J5', 'start'), ('K12', 'end')]",7A
+158,"[('A12', 'end'), ('B12', 'end'), ('F11', 'hold'), ('F8', 'hold'), ('J6', 'start'), ('J5', 'start')]",7A
+159,"[('A12', 'end'), ('B5', 'start'), ('C12', 'end'), ('E7', 'hold'), ('F6', 'start'), ('F2', 'hold'), ('H12', 'hold'), ('I8', 'hold')]",7A
+160,"[('A4', 'hold'), ('A12', 'end'), ('C10', 'hold'), ('G5', 'start'), ('I9', 'hold'), ('K3', 'start')]",7B
+161,"[('A4', 'start'), ('C9', 'hold'), ('E5', 'start'), ('I2', 'hold'), ('I7', 'hold'), ('I11', 'hold'), ('J12', 'end'), ('K12', 'end')]",7B
+162,"[('A3', 'start'), ('D4', 'start'), ('E6', 'hold'), ('H6', 'hold'), ('I10', 'hold'), ('K12', 'end')]",7B
+163,"[('E3', 'start'), ('G9', 'hold'), ('H12', 'end'), ('H3', 'start')]",7B
+164,"[('A12', 'end'), ('E9', 'hold'), ('F11', 'hold'), ('H6', 'start'), ('J4', 'start')]",7B
+165,"[('A6', 'start'), ('C10', 'hold'), ('E4', 'hold'), ('H12', 'hold'), ('J12', 'end'), ('J11', 'hold'), ('J5', 'hold'), ('K12', 'end')]",7B
+166,"[('B5', 'start'), ('C6', 'start'), ('C10', 'hold'), ('H12', 'end')]",7B
+167,"[('C4', 'start'), ('C9', 'hold'), ('D7', 'hold'), ('E12', 'end'), ('H3', 'start')]",7B
+168,"[('B6', 'start'), ('G9', 'hold'), ('I12', 'end'), ('K4', 'hold')]",7B
+169,"[('A12', 'end'), ('F11', 'hold'), ('G12', 'hold'), ('H6', 'start'), ('J7', 'hold'), ('J4', 'start'), ('K12', 'hold')]",7B
+170,"[('A12', 'end'), ('F11', 'hold'), ('G4', 'start'), ('G10', 'hold')]",7B
+171,"[('B12', 'end'), ('C12', 'end'), ('E7', 'hold'), ('E12', 'hold'), ('F2', 'start'), ('G6', 'start'), ('J8', 'hold')]",7B
+172,"[('A12', 'end'), ('E6', 'start'), ('F11', 'hold'), ('H6', 'hold'), ('J4', 'start')]",7B
+173,"[('A6', 'start'), ('G7', 'hold'), ('H12', 'hold'), ('H11', 'hold'), ('H10', 'hold'), ('K12', 'end')]",7B
+174,"[('B3', 'start'), ('C6', 'start'), ('G8', 'hold'), ('G12', 'end'), ('I2', 'hold'), ('J4', 'hold')]",7B
+175,"[('B12', 'end'), ('B2', 'start'), ('F7', 'hold'), ('F6', 'start'), ('G12', 'hold'), ('I12', 'hold'), ('K9', 'hold')]",7B
+176,"[('B12', 'end'), ('D5', 'start'), ('E12', 'hold'), ('G11', 'hold'), ('I2', 'start'), ('J7', 'hold'), ('K2', 'hold')]",7B
+177,"[('B7', 'hold'), ('B3', 'start'), ('F4', 'start'), ('G10', 'hold'), ('H12', 'hold'), ('J12', 'end'), ('K6', 'hold'), ('K12', 'end')]",7B
+178,"[('B6', 'start'), ('E9', 'hold'), ('F9', 'hold'), ('G3', 'hold'), ('J12', 'end'), ('K2', 'hold'), ('K9', 'hold'), ('K12', 'end')]",7B
+179,"[('A5', 'start'), ('D10', 'hold'), ('E5', 'start'), ('H11', 'hold'), ('H10', 'hold'), ('I3', 'hold'), ('K12', 'end')]",7B
+180,"[('B12', 'end'), ('B4', 'hold'), ('D11', 'hold'), ('F11', 'hold'), ('F2', 'hold'), ('H6', 'start'), ('J7', 'hold'), ('J4', 'start')]",7B
+181,"[('A6', 'start'), ('G7', 'hold'), ('J12', 'end'), ('J11', 'hold'), ('J4', 'hold'), ('K12', 'end')]",7B
+182,"[('C12', 'end'), ('E3', 'start'), ('H11', 'hold'), ('H10', 'hold'), ('I9', 'hold'), ('K4', 'start')]",7A+
+183,"[('A6', 'start'), ('G7', 'hold'), ('G11', 'hold'), ('I12', 'end')]",7A+
+184,"[('A12', 'end'), ('D4', 'hold'), ('E10', 'hold'), ('E12', 'hold'), ('I4', 'start'), ('J7', 'hold'), ('K9', 'hold')]",7A+
+185,"[('E3', 'start'), ('F8', 'hold'), ('G10', 'hold'), ('J12', 'end')]",7A+
+186,"[('A8', 'hold'), ('D11', 'hold'), ('D4', 'start'), ('E10', 'hold'), ('I5', 'hold'), ('I10', 'hold'), ('J12', 'end')]",7A+
+187,"[('C7', 'hold'), ('E4', 'start'), ('G9', 'hold'), ('G11', 'hold'), ('J12', 'end'), ('K12', 'end')]",7A+
+188,"[('C10', 'hold'), ('D12', 'end'), ('D4', 'hold'), ('I8', 'hold'), ('J5', 'start')]",7A+
+189,"[('A12', 'end'), ('B11', 'hold'), ('B5', 'hold'), ('D11', 'hold'), ('I8', 'hold'), ('J6', 'start')]",7A+
+190,"[('D6', 'start'), ('F8', 'hold'), ('H5', 'start'), ('J12', 'end'), ('K8', 'hold'), ('K11', 'hold')]",7A+
+191,"[('A12', 'end'), ('D4', 'hold'), ('E9', 'hold'), ('G12', 'hold'), ('H6', 'start'), ('I5', 'start'), ('J7', 'hold')]",7A+
+192,"[('B6', 'start'), ('D9', 'hold'), ('G11', 'hold'), ('K12', 'end')]",7A+
+193,"[('C6', 'start'), ('E4', 'start'), ('E9', 'hold'), ('I8', 'hold'), ('J12', 'end')]",7A+
+194,"[('E6', 'start'), ('G10', 'hold'), ('J4', 'start'), ('K12', 'end')]",7A+
+195,"[('A12', 'end'), ('B9', 'hold'), ('C10', 'hold'), ('D4', 'hold'), ('I8', 'hold'), ('J5', 'start')]",7A+
+196,"[('A12', 'end'), ('B5', 'hold'), ('F11', 'hold'), ('G4', 'start'), ('G10', 'hold')]",7A+
+197,"[('A12', 'end'), ('D4', 'hold'), ('E10', 'hold'), ('J6', 'start'), ('J4', 'start')]",7A+
+198,"[('A6', 'start'), ('F8', 'hold'), ('H11', 'hold'), ('H10', 'hold'), ('I4', 'hold'), ('K12', 'end')]",7A+
+199,"[('C2', 'start'), ('F9', 'hold'), ('F6', 'start'), ('I2', 'hold'), ('J12', 'end'), ('J11', 'hold'), ('K12', 'end')]",7A+
+200,"[('D4', 'start'), ('G10', 'hold'), ('H6', 'hold'), ('I8', 'hold'), ('J12', 'end'), ('K12', 'end')]",6C+
+201,"[('A12', 'end'), ('B4', 'hold'), ('C10', 'hold'), ('C11', 'hold'), ('H11', 'hold'), ('I3', 'start'), ('I8', 'hold'), ('J6', 'start')]",6C+
+202,"[('A6', 'start'), ('D8', 'hold'), ('E7', 'hold'), ('I4', 'hold'), ('I8', 'hold'), ('I12', 'end'), ('J11', 'hold'), ('K12', 'end')]",6C+
+203,"[('A9', 'hold'), ('B2', 'hold'), ('E12', 'end'), ('F6', 'hold'), ('G5', 'start'), ('K5', 'start')]",6C+
+204,"[('B12', 'end'), ('C10', 'hold'), ('D12', 'end'), ('F8', 'hold'), ('H11', 'hold'), ('H6', 'start'), ('I7', 'hold'), ('J4', 'start')]",6C+
+205,"[('A9', 'hold'), ('C11', 'hold'), ('D6', 'hold'), ('D4', 'start'), ('G4', 'start'), ('G11', 'hold'), ('I12', 'end'), ('K12', 'end')]",6C+
+206,"[('A5', 'start'), ('A9', 'hold'), ('C6', 'start'), ('C12', 'hold'), ('D12', 'hold'), ('H9', 'hold'), ('I12', 'hold'), ('K7', 'hold'), ('K12', 'end')]",6C+
+207,"[('E10', 'hold'), ('F7', 'hold'), ('F4', 'start'), ('G8', 'hold'), ('G12', 'end'), ('H4', 'start')]",6C+
+208,"[('D12', 'end'), ('D11', 'hold'), ('F7', 'hold'), ('G3', 'start'), ('I9', 'hold'), ('J4', 'start')]",6C+
+209,"[('A12', 'end'), ('D4', 'hold'), ('E10', 'hold'), ('G10', 'hold'), ('J6', 'start'), ('J4', 'start')]",6C+
+210,"[('C2', 'start'), ('C10', 'hold'), ('E6', 'start'), ('G8', 'hold'), ('G12', 'end')]",6C+
+211,"[('E7', 'hold'), ('F12', 'end'), ('F4', 'start'), ('J10', 'hold'), ('J4', 'start')]",6C+
+212,"[('B7', 'hold'), ('C12', 'end'), ('F12', 'end'), ('G5', 'start'), ('G8', 'hold'), ('H7', 'hold'), ('J4', 'start')]",6C+
+213,"[('D9', 'hold'), ('D3', 'hold'), ('F9', 'hold'), ('G5', 'start'), ('H12', 'end'), ('H3', 'hold'), ('J11', 'hold'), ('J6', 'start')]",6C+
+214,"[('A12', 'end'), ('B12', 'end'), ('C8', 'hold'), ('C11', 'hold'), ('H7', 'hold'), ('J5', 'start')]",6C+
+215,"[('A8', 'hold'), ('C5', 'start'), ('D12', 'end'), ('E8', 'hold'), ('G5', 'start')]",6C+
+216,"[('A12', 'end'), ('B5', 'hold'), ('C10', 'hold'), ('F11', 'hold'), ('G4', 'start'), ('G12', 'hold'), ('J7', 'hold'), ('J4', 'start'), ('K9', 'hold')]",6C+
+217,"[('A6', 'start'), ('C3', 'start'), ('D9', 'hold'), ('H12', 'end'), ('H11', 'hold')]",6C+
+218,"[('F8', 'hold'), ('H11', 'hold'), ('H10', 'hold'), ('J12', 'end'), ('J5', 'start')]",6C+
+219,"[('E3', 'start'), ('E7', 'hold'), ('G11', 'hold'), ('H12', 'end'), ('J6', 'start'), ('K9', 'hold'), ('K12', 'end')]",6C+
+220,"[('B5', 'start'), ('C10', 'hold'), ('E6', 'start'), ('G10', 'hold'), ('G12', 'hold'), ('J12', 'end'), ('K12', 'end')]",6C+
+221,"[('B12', 'end'), ('B5', 'hold'), ('E12', 'hold'), ('F10', 'hold'), ('G4', 'start'), ('I9', 'hold'), ('K3', 'start')]",6C+
+222,"[('D6', 'start'), ('E7', 'hold'), ('H5', 'start'), ('I11', 'hold'), ('J12', 'end'), ('K12', 'end')]",6C+
+223,"[('D12', 'end'), ('F2', 'start'), ('H12', 'hold'), ('H11', 'hold'), ('J9', 'hold'), ('J6', 'start'), ('K10', 'hold')]",6C+
+224,"[('A4', 'hold'), ('A12', 'end'), ('E10', 'hold'), ('E12', 'hold'), ('G5', 'start'), ('I9', 'hold')]",6C+
+225,"[('D4', 'start'), ('E9', 'hold'), ('G4', 'start'), ('G10', 'hold'), ('I10', 'hold'), ('J12', 'end'), ('K12', 'end')]",6C+
+226,"[('A12', 'end'), ('B5', 'hold'), ('C10', 'hold'), ('F11', 'hold'), ('G10', 'hold'), ('H6', 'start'), ('I5', 'start'), ('J7', 'hold')]",6C+
+227,"[('A2', 'start'), ('A7', 'hold'), ('D4', 'start'), ('E9', 'hold'), ('E10', 'hold'), ('H12', 'end'), ('I10', 'hold'), ('J12', 'end')]",6C+
+228,"[('A8', 'hold'), ('B12', 'end'), ('E4', 'start'), ('E12', 'hold'), ('G11', 'hold'), ('H7', 'hold'), ('H5', 'start')]",6C+
+229,"[('G4', 'start'), ('G12', 'end'), ('I8', 'hold')]",6C+
+230,"[('A6', 'start'), ('E11', 'hold'), ('F6', 'hold'), ('J12', 'end'), ('K12', 'end')]",6C+
+231,"[('G9', 'hold'), ('H12', 'end'), ('J5', 'start')]",6C+
+232,"[('B5', 'start'), ('D8', 'hold'), ('E6', 'start'), ('G8', 'hold'), ('G11', 'hold'), ('J12', 'end'), ('K12', 'end')]",6C+
+233,"[('A12', 'end'), ('B3', 'hold'), ('C11', 'hold'), ('F8', 'hold'), ('G4', 'start'), ('G10', 'hold')]",6C+
+234,"[('D12', 'end'), ('F2', 'hold'), ('H11', 'hold'), ('I8', 'hold'), ('J5', 'start')]",6C+
+235,"[('B5', 'hold'), ('E3', 'start'), ('F8', 'hold'), ('G11', 'hold'), ('K12', 'end')]",6C+
+236,"[('A12', 'end'), ('B5', 'start'), ('D8', 'hold'), ('E6', 'start'), ('E9', 'hold')]",6C+
+237,"[('A12', 'end'), ('C12', 'end'), ('D11', 'hold'), ('G4', 'start'), ('H11', 'hold'), ('J11', 'hold'), ('J7', 'hold'), ('J4', 'start')]",6C+
+238,"[('D12', 'end'), ('E10', 'hold'), ('F8', 'hold'), ('G6', 'start'), ('H4', 'start')]",6C
+239,"[('B12', 'end'), ('C9', 'hold'), ('C12', 'end'), ('D5', 'start'), ('G8', 'hold'), ('I3', 'start')]",6C
+240,"[('C12', 'end'), ('D12', 'end'), ('E11', 'hold'), ('F12', 'hold'), ('G4', 'start'), ('I8', 'hold'), ('I11', 'hold'), ('J6', 'start')]",6A+
+241,"[('C12', 'end'), ('D12', 'end'), ('G4', 'start'), ('G11', 'hold'), ('G12', 'hold'), ('I8', 'hold'), ('J5', 'start'), ('K9', 'hold')]",6A+
+242,"[('D12', 'end'), ('D9', 'hold'), ('D6', 'start'), ('G4', 'start'), ('G9', 'hold'), ('H12', 'end'), ('H11', 'hold')]",6A+
+243,"[('A6', 'start'), ('D9', 'hold'), ('E4', 'hold'), ('G12', 'end'), ('H9', 'hold'), ('J12', 'end'), ('J5', 'hold')]",6A+
+244,"[('A6', 'start'), ('A9', 'hold'), ('D4', 'hold'), ('E11', 'hold'), ('F12', 'end'), ('K12', 'end')]",6A+
+245,"[('D6', 'start'), ('F12', 'end'), ('F2', 'hold'), ('I9', 'hold'), ('J6', 'start')]",6A+
+246,"[('A12', 'end'), ('D12', 'end'), ('D9', 'hold'), ('G5', 'start'), ('H9', 'hold'), ('J5', 'start')]",6A+
+247,"[('B5', 'start'), ('C8', 'hold'), ('D12', 'end'), ('E4', 'start'), ('G12', 'end'), ('H9', 'hold')]",6A+
+248,"[('D9', 'hold'), ('E4', 'start'), ('G7', 'hold'), ('G12', 'hold'), ('H11', 'hold'), ('J5', 'start'), ('K12', 'end')]",6B
+249,"[('F8', 'hold'), ('G12', 'end'), ('H11', 'hold'), ('H7', 'hold'), ('I2', 'hold'), ('J12', 'end'), ('J5', 'start')]",6B
+250,"[('B3', 'start'), ('C12', 'end'), ('D8', 'hold'), ('E6', 'start'), ('E10', 'hold')]",6B
+251,"[('C4', 'start'), ('F6', 'start'), ('G10', 'hold'), ('G12', 'end'), ('H9', 'hold'), ('K12', 'end')]",6B
+252,"[('B6', 'start'), ('D9', 'hold'), ('E5', 'start'), ('F12', 'end'), ('G7', 'hold'), ('H11', 'hold'), ('J12', 'end'), ('J5', 'hold')]",6B
+253,"[('A6', 'start'), ('A9', 'hold'), ('D2', 'hold'), ('E11', 'hold'), ('H12', 'end'), ('J11', 'hold'), ('J5', 'hold'), ('K12', 'end')]",6B
+254,"[('B4', 'hold'), ('C8', 'hold'), ('C12', 'end'), ('E3', 'hold'), ('E10', 'hold'), ('G5', 'start'), ('G7', 'hold'), ('J6', 'start')]",6B
+255,"[('A12', 'end'), ('B12', 'end'), ('C10', 'hold'), ('C11', 'hold'), ('G4', 'start'), ('G10', 'hold'), ('H11', 'hold'), ('I8', 'hold'), ('J4', 'start')]",6B
+256,"[('C8', 'hold'), ('D6', 'start'), ('E11', 'hold'), ('G4', 'start'), ('G12', 'end'), ('I12', 'end')]",6B
+257,"[('B12', 'end'), ('D12', 'end'), ('E10', 'hold'), ('F11', 'hold'), ('F8', 'hold'), ('H6', 'start'), ('I9', 'hold'), ('J6', 'start')]",6B
+258,"[('A6', 'start'), ('B12', 'end'), ('C12', 'end'), ('D6', 'hold'), ('F12', 'hold'), ('G7', 'hold'), ('I9', 'hold'), ('K5', 'hold')]",6B
+259,"[('A9', 'hold'), ('C12', 'end'), ('D6', 'hold'), ('F6', 'hold'), ('J6', 'start')]",6B
+260,"[('A2', 'hold'), ('A6', 'start'), ('A9', 'hold'), ('C11', 'hold'), ('C12', 'hold'), ('F12', 'hold'), ('I12', 'end'), ('J12', 'end')]",6B
+261,"[('A6', 'start'), ('C5', 'start'), ('D9', 'hold'), ('E8', 'hold'), ('G12', 'end'), ('H11', 'hold'), ('I5', 'hold'), ('K12', 'end')]",6B
+262,"[('D12', 'end'), ('F4', 'hold'), ('G5', 'start'), ('G11', 'hold'), ('H11', 'hold'), ('H7', 'hold'), ('H4', 'hold'), ('J9', 'hold'), ('J6', 'start')]",6B
+263,"[('A4', 'hold'), ('A12', 'end'), ('C12', 'end'), ('D12', 'hold'), ('D6', 'start'), ('E3', 'start'), ('H9', 'hold'), ('I3', 'hold'), ('I11', 'hold')]",6B
+264,"[('D4', 'start'), ('F10', 'hold'), ('F8', 'hold'), ('G11', 'hold'), ('H7', 'hold'), ('I6', 'start'), ('K12', 'end')]",6B
+265,"[('B5', 'start'), ('D9', 'hold'), ('E6', 'start'), ('G10', 'hold'), ('I2', 'hold'), ('I8', 'hold'), ('J12', 'end'), ('K12', 'end')]",6B
+266,"[('A6', 'start'), ('A8', 'hold'), ('C11', 'hold'), ('D4', 'hold'), ('E11', 'hold'), ('G11', 'hold'), ('H9', 'hold'), ('I4', 'hold'), ('J12', 'end'), ('K12', 'end')]",6B
+267,"[('A6', 'start'), ('F12', 'end'), ('F6', 'hold'), ('G7', 'hold'), ('H9', 'hold')]",6B
+268,"[('C12', 'end'), ('D12', 'end'), ('F2', 'hold'), ('G10', 'hold'), ('H11', 'hold'), ('I2', 'hold'), ('J6', 'start'), ('K9', 'hold')]",6B
+269,"[('B7', 'hold'), ('E11', 'hold'), ('F6', 'start'), ('F2', 'start'), ('G8', 'hold'), ('H12', 'end'), ('J11', 'hold'), ('J5', 'hold'), ('K12', 'end')]",6B
+270,"[('D6', 'start'), ('D3', 'start'), ('G11', 'hold'), ('H12', 'end'), ('H9', 'hold')]",6B
+271,"[('C6', 'start'), ('E6', 'start'), ('E10', 'hold'), ('F8', 'hold'), ('G4', 'hold'), ('G12', 'end'), ('H11', 'hold'), ('K12', 'end')]",6B
+272,"[('A6', 'start'), ('D9', 'hold'), ('F6', 'start'), ('G3', 'hold'), ('G12', 'hold'), ('H11', 'hold'), ('J12', 'end'), ('K5', 'hold'), ('K12', 'end')]",6B
+273,"[('C8', 'hold'), ('D11', 'hold'), ('E7', 'hold'), ('F11', 'hold'), ('F6', 'hold'), ('F2', 'hold'), ('H12', 'end'), ('I12', 'end'), ('J6', 'start')]",6B
+274,"[('D4', 'hold'), ('G10', 'hold'), ('G12', 'end'), ('H6', 'start'), ('I2', 'hold'), ('I5', 'start'), ('I8', 'hold'), ('J7', 'hold'), ('K9', 'hold')]",6B
+275,"[('A12', 'end'), ('C11', 'hold'), ('D9', 'hold'), ('D4', 'start'), ('G4', 'start'), ('G7', 'hold')]",6B
+276,"[('C12', 'end'), ('E10', 'hold'), ('F11', 'hold'), ('F2', 'start'), ('I8', 'hold'), ('I10', 'hold'), ('J6', 'start')]",6B
+277,"[('A6', 'hold'), ('A9', 'hold'), ('C11', 'hold'), ('C12', 'end'), ('D6', 'hold'), ('F6', 'hold'), ('G5', 'start'), ('J6', 'start')]",6B
+278,"[('A9', 'hold'), ('C11', 'hold'), ('C12', 'end'), ('D6', 'hold'), ('F12', 'end'), ('F8', 'hold'), ('G5', 'start'), ('J6', 'start')]",6B
+279,"[('A6', 'start'), ('B8', 'hold'), ('E11', 'hold'), ('E12', 'end'), ('G9', 'hold'), ('I12', 'end')]",6B
+280,"[('A12', 'end'), ('B12', 'end'), ('D10', 'hold'), ('E11', 'hold'), ('G5', 'start'), ('H9', 'hold'), ('J6', 'start')]",6B
+281,"[('A12', 'end'), ('B3', 'hold'), ('C11', 'hold'), ('D12', 'end'), ('D9', 'hold'), ('G5', 'start'), ('H7', 'hold'), ('J6', 'start')]",6B
+282,"[('D12', 'end'), ('G5', 'start'), ('H9', 'hold'), ('K4', 'start')]",6B
+283,"[('A6', 'start'), ('A9', 'hold'), ('B3', 'start'), ('C8', 'hold'), ('D4', 'hold'), ('F12', 'end')]",6B
+284,"[('D9', 'hold'), ('E12', 'end'), ('H7', 'hold'), ('J5', 'start')]",6B
+285,"[('C12', 'end'), ('D6', 'start'), ('H9', 'hold'), ('J4', 'start')]",6B
+286,"[('A6', 'start'), ('E3', 'hold'), ('F12', 'end'), ('G7', 'hold'), ('H9', 'hold')]",6B
+287,"[('E12', 'end'), ('F2', 'start'), ('G11', 'hold'), ('H12', 'end'), ('J7', 'hold'), ('J6', 'start'), ('K9', 'hold')]",6B
+288,"[('A3', 'start'), ('D9', 'hold'), ('E6', 'start'), ('G11', 'hold'), ('G12', 'hold'), ('I12', 'end'), ('K12', 'end')]",6B+
+289,"[('E6', 'start'), ('G10', 'hold'), ('I5', 'start'), ('I8', 'hold'), ('J12', 'end'), ('K12', 'end')]",6B+
+290,"[('B6', 'start'), ('D9', 'hold'), ('E5', 'start'), ('G7', 'hold'), ('I12', 'end'), ('J5', 'hold')]",6B+
+291,"[('A12', 'end'), ('C11', 'hold'), ('D9', 'hold'), ('D4', 'start'), ('G8', 'hold'), ('J6', 'start')]",6B+
+292,"[('C12', 'end'), ('E3', 'start'), ('F12', 'end'), ('F11', 'hold'), ('G4', 'hold'), ('G7', 'hold'), ('J10', 'hold'), ('J6', 'start')]",6B+
+293,"[('B5', 'start'), ('C8', 'hold'), ('C10', 'hold'), ('D4', 'start'), ('G12', 'end')]",6B+
+294,"[('D12', 'end'), ('D5', 'start'), ('E6', 'start'), ('G10', 'hold'), ('H11', 'hold'), ('H7', 'hold')]",6B+
+295,"[('C12', 'end'), ('G11', 'hold'), ('H11', 'hold'), ('J6', 'start'), ('J5', 'start')]",6B+
+296,"[('B12', 'end'), ('D11', 'hold'), ('E12', 'end'), ('G9', 'hold'), ('H7', 'hold'), ('I11', 'hold'), ('J5', 'start')]",6B+
+297,"[('C8', 'hold'), ('D6', 'start'), ('D2', 'start'), ('F9', 'hold'), ('G12', 'end')]",6B+
+298,"[('A9', 'hold'), ('B6', 'start'), ('C11', 'hold'), ('D12', 'hold'), ('E4', 'start'), ('G12', 'end')]",6B+
+299,"[('A2', 'start'), ('A12', 'end'), ('B12', 'end'), ('C11', 'hold'), ('D9', 'hold'), ('F6', 'start')]",6B+
+300,"[('A2', 'start'), ('A12', 'end'), ('B12', 'end'), ('D9', 'hold'), ('F6', 'start')]",6B+
+301,"[('D4', 'start'), ('E11', 'hold'), ('G7', 'hold'), ('G12', 'end'), ('H4', 'start'), ('K12', 'end')]",6B+
+302,"[('A6', 'hold'), ('C12', 'end'), ('D12', 'end'), ('D9', 'hold'), ('E3', 'start'), ('G9', 'hold'), ('J6', 'start')]",6B+
+303,"[('B12', 'end'), ('D12', 'end'), ('D4', 'start'), ('E7', 'hold'), ('I9', 'hold'), ('J6', 'hold'), ('J2', 'start')]",6B+
+304,"[('A12', 'end'), ('B12', 'end'), ('D4', 'hold'), ('E10', 'hold'), ('E12', 'hold'), ('F8', 'hold'), ('I10', 'hold'), ('J6', 'start'), ('J5', 'start')]",6B+
+305,"[('B12', 'end'), ('B4', 'hold'), ('C11', 'hold'), ('D10', 'hold'), ('E3', 'start'), ('F8', 'hold'), ('G5', 'hold'), ('G6', 'start')]",6B+
+306,"[('C8', 'hold'), ('C12', 'end'), ('D5', 'start'), ('F11', 'hold'), ('G8', 'hold'), ('H4', 'start')]",6B+
+307,"[('A2', 'hold'), ('A9', 'hold'), ('A12', 'end'), ('B12', 'end'), ('D9', 'hold'), ('G5', 'start'), ('H9', 'hold'), ('J5', 'start')]",6B+
+308,"[('C12', 'end'), ('F12', 'hold'), ('G5', 'start'), ('I8', 'hold'), ('J11', 'hold'), ('J6', 'start')]",6B+
+309,"[('C12', 'end'), ('D6', 'start'), ('G7', 'hold'), ('H3', 'start')]",6B+
+310,"[('A12', 'end'), ('D11', 'hold'), ('D4', 'hold'), ('E12', 'end'), ('G8', 'hold'), ('J11', 'hold'), ('J6', 'start'), ('J5', 'start')]",6B+
+311,"[('B12', 'end'), ('C12', 'end'), ('E10', 'hold'), ('F11', 'hold'), ('G4', 'start'), ('I9', 'hold'), ('K6', 'start')]",6B+
+312,"[('A6', 'start'), ('C10', 'hold'), ('E8', 'hold'), ('G11', 'hold'), ('H11', 'hold'), ('J12', 'end'), ('J6', 'hold'), ('K12', 'end')]",6B+
+313,"[('B8', 'hold'), ('B2', 'start'), ('E6', 'start'), ('E8', 'hold'), ('E12', 'end'), ('G4', 'hold')]",6B+
+314,"[('B5', 'start'), ('E6', 'start'), ('E10', 'hold'), ('G4', 'hold'), ('H12', 'end')]",6B+
+315,"[('D6', 'start'), ('D4', 'start'), ('G9', 'hold'), ('G11', 'hold'), ('I5', 'hold'), ('K12', 'end')]",6B+
+316,"[('C8', 'hold'), ('D12', 'end'), ('G4', 'start'), ('I8', 'hold'), ('J4', 'start')]",6B+
+317,"[('D6', 'start'), ('F10', 'hold'), ('H4', 'start'), ('I12', 'end'), ('J8', 'hold')]",6B+
+318,"[('C3', 'start'), ('E9', 'hold'), ('F6', 'start'), ('G12', 'hold'), ('I3', 'hold'), ('I8', 'hold'), ('K4', 'hold'), ('K12', 'end')]",6B+
+319,"[('A6', 'start'), ('A12', 'end'), ('B12', 'end'), ('C12', 'hold'), ('D6', 'hold'), ('E12', 'hold'), ('F6', 'hold'), ('G12', 'hold'), ('I8', 'hold'), ('J11', 'hold'), ('J6', 'hold')]",6B+
+320,"[('A12', 'end'), ('C11', 'hold'), ('D12', 'end'), ('F6', 'start'), ('G10', 'hold'), ('H11', 'hold'), ('I3', 'start'), ('I8', 'hold')]",6B+
+321,"[('C12', 'end'), ('D11', 'hold'), ('F10', 'hold'), ('F6', 'start'), ('H11', 'hold'), ('H4', 'start'), ('I8', 'hold')]",6B+
+322,"[('A12', 'end'), ('B12', 'end'), ('C11', 'hold'), ('D9', 'hold'), ('E4', 'start')]",6B+
+323,"[('C12', 'end'), ('F12', 'hold'), ('G4', 'start'), ('G5', 'start'), ('G10', 'hold'), ('J7', 'hold')]",6B+
+324,"[('C5', 'start'), ('E7', 'hold'), ('F6', 'start'), ('G11', 'hold'), ('I8', 'hold'), ('I12', 'end'), ('K12', 'end')]",6B+
+325,"[('A6', 'start'), ('B9', 'hold'), ('G4', 'hold'), ('G11', 'hold'), ('H9', 'hold'), ('K12', 'end')]",6B+
+326,"[('B5', 'start'), ('E6', 'start'), ('E9', 'hold'), ('G10', 'hold'), ('I2', 'hold'), ('I8', 'hold'), ('J12', 'end'), ('K12', 'end')]",6B+
+327,"[('A6', 'start'), ('C8', 'hold'), ('G12', 'end'), ('H9', 'hold'), ('H4', 'hold'), ('K12', 'end')]",6B+
+328,"[('D4', 'hold'), ('E3', 'start'), ('G12', 'end'), ('I8', 'hold'), ('I10', 'hold'), ('J6', 'start'), ('K12', 'end')]",6B
+329,"[('B12', 'end'), ('E10', 'hold'), ('E12', 'end'), ('I8', 'hold'), ('J5', 'start')]",6B
+330,"[('A4', 'hold'), ('B12', 'end'), ('D9', 'hold'), ('E3', 'start'), ('E12', 'end'), ('G7', 'hold'), ('J4', 'start')]",6B
+331,"[('C12', 'end'), ('D6', 'hold'), ('E11', 'hold'), ('G11', 'hold'), ('H7', 'hold'), ('J9', 'hold'), ('J5', 'start')]",6B
+332,"[('B6', 'start'), ('D9', 'hold'), ('E6', 'start'), ('F12', 'end')]",6B
+333,"[('B3', 'hold'), ('C8', 'hold'), ('D4', 'start'), ('E6', 'start'), ('G10', 'hold'), ('G12', 'end'), ('K12', 'end')]",6B
+334,"[('E6', 'start'), ('G4', 'hold'), ('G10', 'hold'), ('G12', 'end'), ('H6', 'start'), ('I8', 'hold')]",6B
+335,"[('C5', 'start'), ('D9', 'hold'), ('F6', 'start'), ('G11', 'hold'), ('I4', 'hold'), ('I9', 'hold'), ('I12', 'end')]",6B
+336,"[('C12', 'end'), ('D11', 'hold'), ('G4', 'start'), ('H11', 'hold'), ('I8', 'hold'), ('J11', 'hold'), ('J6', 'start')]",6B
+337,"[('A9', 'hold'), ('B12', 'end'), ('C11', 'hold'), ('C12', 'end'), ('D6', 'start'), ('E8', 'hold'), ('H3', 'start')]",6A+
+338,"[('A6', 'start'), ('B7', 'hold'), ('F6', 'hold'), ('G12', 'end'), ('H9', 'hold'), ('I4', 'hold'), ('K12', 'end')]",6A+
+339,"[('B5', 'start'), ('C8', 'hold'), ('D4', 'start'), ('E11', 'hold'), ('F12', 'end'), ('G8', 'hold'), ('I3', 'hold')]",6A+
+340,"[('A6', 'start'), ('A9', 'hold'), ('D4', 'hold'), ('E10', 'hold'), ('E11', 'hold'), ('G12', 'end'), ('H9', 'hold'), ('I4', 'hold'), ('K12', 'end')]",6A+
+341,"[('C12', 'end'), ('D4', 'hold'), ('G4', 'start'), ('G11', 'hold'), ('G12', 'hold'), ('J9', 'hold'), ('J7', 'hold'), ('J6', 'start')]",6A+
+342,"[('B3', 'start'), ('D9', 'hold'), ('F6', 'start'), ('G3', 'hold'), ('G12', 'end'), ('H11', 'hold'), ('J12', 'end'), ('K5', 'hold')]",6A+
+343,"[('D9', 'hold'), ('D6', 'start'), ('F12', 'end'), ('F8', 'hold'), ('H3', 'start')]",6A+
+344,"[('A6', 'hold'), ('B12', 'end'), ('D6', 'start'), ('E4', 'start'), ('E11', 'hold'), ('E12', 'end'), ('H9', 'hold')]",6A+
+345,"[('A12', 'end'), ('C6', 'hold'), ('D12', 'end'), ('F12', 'hold'), ('G5', 'start'), ('H9', 'hold'), ('J4', 'start')]",6A+
+346,"[('A6', 'start'), ('D9', 'hold'), ('F12', 'end'), ('F8', 'hold')]",6A+
+347,"[('A6', 'hold'), ('A9', 'hold'), ('C11', 'hold'), ('C12', 'end'), ('F6', 'start'), ('G5', 'start'), ('G12', 'end')]",6A+
+348,"[('A6', 'hold'), ('A9', 'hold'), ('A11', 'hold'), ('C11', 'hold'), ('D12', 'hold'), ('D6', 'hold'), ('D4', 'start'), ('G4', 'start'), ('G11', 'hold'), ('I12', 'end'), ('J11', 'hold'), ('K12', 'end')]",6A+
+349,"[('D6', 'start'), ('H12', 'end'), ('H11', 'hold'), ('H9', 'hold'), ('I2', 'start'), ('I12', 'end'), ('K5', 'hold')]",6A+
+350,"[('D9', 'hold'), ('D4', 'hold'), ('F12', 'end'), ('G5', 'start'), ('G7', 'hold'), ('H11', 'hold'), ('J12', 'end'), ('J5', 'start')]",6A+
+351,"[('D6', 'start'), ('E11', 'hold'), ('G12', 'end'), ('H9', 'hold')]",6A+
+352,"[('D9', 'hold'), ('D4', 'start'), ('F6', 'start'), ('G11', 'hold'), ('H12', 'end'), ('H11', 'hold'), ('J12', 'end')]",6A+
+353,"[('D4', 'hold'), ('G11', 'hold'), ('H12', 'end'), ('H7', 'hold'), ('I4', 'start'), ('I12', 'end'), ('J9', 'hold')]",6A+
+354,"[('A12', 'end'), ('D12', 'end'), ('E11', 'hold'), ('H9', 'hold'), ('J6', 'start'), ('J5', 'start')]",6A+
+355,"[('D6', 'start'), ('G11', 'hold'), ('H12', 'end'), ('H9', 'hold'), ('H3', 'start'), ('I12', 'end')]",6A+
+356,"[('A12', 'end'), ('B12', 'end'), ('C11', 'hold'), ('D9', 'hold'), ('D6', 'start'), ('G3', 'start'), ('G7', 'hold')]",6A+
+357,"[('C12', 'end'), ('F12', 'hold'), ('G4', 'start'), ('G12', 'hold'), ('I8', 'hold'), ('J6', 'start'), ('K2', 'hold'), ('K11', 'hold')]",6A+
+358,"[('D6', 'hold'), ('F12', 'end'), ('G5', 'start'), ('H9', 'hold'), ('J6', 'start')]",6A+
+359,"[('C5', 'hold'), ('C12', 'end'), ('D9', 'hold'), ('E11', 'hold'), ('G5', 'start'), ('H7', 'hold'), ('J5', 'start')]",6A+
+360,"[('B3', 'start'), ('D9', 'hold'), ('D6', 'start'), ('G7', 'hold'), ('G12', 'end'), ('I11', 'hold'), ('J12', 'end')]",6A+
+361,"[('C12', 'end'), ('E10', 'hold'), ('F12', 'hold'), ('G5', 'start'), ('H9', 'hold'), ('I3', 'hold'), ('J6', 'start')]",6A+
+362,"[('C12', 'end'), ('D9', 'hold'), ('E4', 'start'), ('E10', 'hold'), ('F6', 'hold'), ('H4', 'start')]",6A+
+363,"[('A6', 'start'), ('A9', 'hold'), ('D3', 'start'), ('E11', 'hold'), ('F12', 'end')]",6A+
+364,"[('A6', 'start'), ('D9', 'hold'), ('E4', 'hold'), ('G11', 'hold'), ('H9', 'hold'), ('I4', 'hold'), ('I12', 'end'), ('J11', 'hold'), ('K12', 'end')]",6A+
+365,"[('F12', 'end'), ('G4', 'hold'), ('G5', 'start'), ('G11', 'hold'), ('H12', 'end'), ('I8', 'hold'), ('J11', 'hold'), ('J6', 'start')]",6A+
+366,"[('A6', 'start'), ('B9', 'hold'), ('C8', 'hold'), ('D12', 'end'), ('E10', 'hold'), ('F2', 'hold')]",6A+
+367,"[('B4', 'hold'), ('C12', 'end'), ('D9', 'hold'), ('G5', 'start'), ('I9', 'hold'), ('J6', 'start')]",6A+
+368,"[('A4', 'start'), ('D6', 'start'), ('E7', 'hold'), ('H12', 'end'), ('H4', 'hold'), ('K9', 'hold')]",7A
+369,"[('D4', 'start'), ('G8', 'hold'), ('G10', 'hold'), ('I3', 'start'), ('K12', 'end')]",7A
+370,"[('B12', 'end'), ('E3', 'start'), ('E12', 'end'), ('G11', 'hold'), ('J6', 'start')]",7A
+371,"[('A4', 'start'), ('B7', 'hold'), ('E5', 'start'), ('E10', 'hold'), ('G11', 'hold'), ('J12', 'end'), ('K12', 'end')]",7A
+372,"[('A8', 'hold'), ('C4', 'start'), ('C11', 'hold'), ('E4', 'start'), ('E12', 'end'), ('I12', 'end')]",7A
+373,"[('A12', 'end'), ('B9', 'hold'), ('D4', 'start')]",7A
+374,"[('C12', 'end'), ('D4', 'hold'), ('G10', 'hold'), ('H10', 'hold'), ('H6', 'start'), ('J4', 'start')]",7A
+375,"[('A6', 'start'), ('F9', 'hold'), ('H9', 'hold'), ('I12', 'end'), ('J6', 'hold')]",7A
+376,"[('A12', 'end'), ('C12', 'end'), ('E11', 'hold'), ('G5', 'start'), ('J8', 'hold'), ('K3', 'start')]",7A
+377,"[('A2', 'hold'), ('B5', 'start'), ('C6', 'start'), ('D8', 'hold'), ('E9', 'hold'), ('G10', 'hold'), ('G12', 'end')]",7A
+378,"[('B11', 'hold'), ('B8', 'hold'), ('D4', 'start'), ('D3', 'hold'), ('F9', 'hold'), ('G12', 'hold'), ('I12', 'end'), ('J5', 'hold'), ('K12', 'end')]",7A
+379,"[('B7', 'hold'), ('D3', 'start'), ('E4', 'start'), ('E10', 'hold'), ('E12', 'hold'), ('I5', 'hold'), ('I12', 'end'), ('K12', 'end')]",7A
+380,"[('D4', 'start'), ('E9', 'hold'), ('G4', 'start'), ('I10', 'hold'), ('J7', 'hold'), ('K12', 'end')]",7A
+381,"[('C8', 'hold'), ('C12', 'end'), ('G10', 'hold'), ('H12', 'hold'), ('H6', 'start'), ('K6', 'start'), ('K9', 'hold')]",7A
+382,"[('C12', 'end'), ('E9', 'hold'), ('H12', 'hold'), ('J6', 'start')]",7A
+383,"[('B9', 'hold'), ('B3', 'start'), ('C6', 'start'), ('G10', 'hold'), ('G12', 'hold'), ('J12', 'end'), ('J4', 'hold')]",7A
+384,"[('A12', 'end'), ('B5', 'hold'), ('C10', 'hold'), ('F11', 'hold'), ('G4', 'start'), ('I10', 'hold'), ('J7', 'hold'), ('J4', 'start')]",7A
+385,"[('B3', 'start'), ('E6', 'start'), ('G12', 'hold'), ('I8', 'hold'), ('K12', 'end')]",7A
+386,"[('A3', 'start'), ('B9', 'hold'), ('E6', 'start'), ('F11', 'hold'), ('G12', 'end'), ('J12', 'end')]",7A
+387,"[('A7', 'hold'), ('A12', 'end'), ('C10', 'hold'), ('D4', 'start')]",7A
+388,"[('A12', 'end'), ('D8', 'hold'), ('E3', 'start'), ('E10', 'hold'), ('F6', 'hold'), ('I3', 'start')]",7A
+389,"[('A12', 'end'), ('C11', 'hold'), ('E8', 'hold'), ('F6', 'start'), ('F4', 'start'), ('G10', 'hold')]",7A
+390,"[('A12', 'end'), ('B12', 'end'), ('E5', 'start'), ('F11', 'hold'), ('G12', 'hold'), ('H8', 'hold'), ('I10', 'hold'), ('J4', 'start')]",7A
+391,"[('A11', 'hold'), ('A12', 'end'), ('B5', 'hold'), ('E3', 'start'), ('E10', 'hold'), ('G11', 'hold'), ('J6', 'start')]",7A
+392,"[('A12', 'end'), ('B12', 'end'), ('E5', 'start'), ('F12', 'hold'), ('F9', 'hold'), ('J6', 'start')]",7A
+393,"[('C3', 'start'), ('C6', 'start'), ('F10', 'hold'), ('F6', 'hold'), ('I3', 'hold'), ('I12', 'end')]",7A
+394,"[('E6', 'start'), ('F2', 'hold'), ('G8', 'hold'), ('G12', 'hold'), ('H6', 'start'), ('J4', 'hold'), ('K12', 'end')]",7A
+395,"[('A12', 'end'), ('D4', 'hold'), ('F11', 'hold'), ('F2', 'hold'), ('G12', 'hold'), ('H6', 'start'), ('K2', 'start'), ('K9', 'hold')]",7A
+396,"[('D4', 'start'), ('E7', 'hold'), ('H12', 'hold'), ('I9', 'hold'), ('K12', 'end')]",7A
+397,"[('A11', 'hold'), ('B9', 'hold'), ('B5', 'start'), ('C5', 'start'), ('E12', 'hold'), ('G12', 'hold'), ('J5', 'hold'), ('K12', 'end')]",7A
+398,"[('B3', 'start'), ('C8', 'hold'), ('D10', 'hold'), ('E8', 'hold'), ('H5', 'start'), ('I5', 'hold'), ('I12', 'end')]",6C+
+399,"[('A7', 'hold'), ('B9', 'hold'), ('B5', 'start'), ('G9', 'hold'), ('G12', 'end')]",6C+
+400,"[('E12', 'end'), ('G6', 'start'), ('G9', 'hold'), ('I6', 'start'), ('I11', 'hold')]",6C+
+401,"[('A12', 'end'), ('B5', 'hold'), ('E9', 'hold'), ('F11', 'hold'), ('G4', 'start'), ('I8', 'hold'), ('J4', 'start')]",6C+
+402,"[('A12', 'end'), ('B11', 'hold'), ('B9', 'hold'), ('C4', 'hold'), ('E8', 'hold'), ('G5', 'start'), ('G7', 'hold'), ('I4', 'start')]",6C+
+403,"[('D4', 'start'), ('F7', 'hold'), ('H11', 'hold'), ('H4', 'start'), ('I8', 'hold'), ('K12', 'end')]",6C+
+404,"[('C4', 'start'), ('D9', 'hold'), ('E4', 'start'), ('H12', 'end'), ('H11', 'hold'), ('I12', 'end'), ('J4', 'hold')]",6C+
+405,"[('C12', 'end'), ('D5', 'start'), ('G10', 'hold'), ('G11', 'hold'), ('J6', 'start')]",6C+
+406,"[('A4', 'start'), ('D9', 'hold'), ('E6', 'start'), ('G11', 'hold'), ('H10', 'hold'), ('J12', 'end'), ('K12', 'end')]",6C+
+407,"[('A4', 'hold'), ('A12', 'end'), ('B11', 'hold'), ('E9', 'hold'), ('E10', 'hold'), ('I8', 'hold'), ('J5', 'start')]",6C+

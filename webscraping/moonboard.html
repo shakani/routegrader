@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en-gb" prefix="og: http://ogp.me/ns#">
+<head>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1" name="viewport"/>
+<meta content="yes" name="apple-mobile-web-app-capable"/>
+<meta content="black" name="apple-mobile-web-app-status-bar-style"/>
+<title>MoonBoard - Train hard, climb harder!</title>
+<meta content="Welcome to training on the MoonBoard, climb on the same problems as other climbers from around the world." name="description"/>
+<link href="https://www.moonboard.com" rel="canonical"/>
+<meta content="article" property="og:type"/>
+<meta content="Welcome to training on the MoonBoard, climb on the same problems as other climbers from around the world." property="og:title"/>
+<meta content="Welcome to training on the MoonBoard, climb on the same problems as other climbers from around the world." property="og:description"/>
+<meta content="https://www.moonboard.com" property="og:url"/>
+<meta content="MoonBoard - Train hard, climb harder!" property="og:site_name"/>
+<meta content="https://www.moonboard.com/Content/images/Home/schoolroom_tab.jpg" property="og:image"/>
+<meta content="https://www.facebook.com/MoonClimbing/" property="article:publisher"/>
+<meta content="summary" name="twitter:card"/>
+<meta content="Welcome to training on the MoonBoard, climb on the same problems as other climbers from around the world." name="twitter:description"/>
+<meta content="Welcome to training on the MoonBoard, climb on the same problems as other climbers from around the world." name="twitter:title"/>
+<meta content="@moonclimbing" name="twitter:site"/>
+<script src="/Scripts/jquery-3.4.1.js"></script>
+<script src="/Scripts/jquery.validate.js"></script>
+<script src="/Scripts/jquery.validate.unobtrusive.js"></script>
+<script src="/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+<script src="/Scripts/helpers.min.js"></script>
+<link crossorigin="anonymous" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" rel="stylesheet"/>
+<script crossorigin="anonymous" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+<script src="https://kit.fontawesome.com/31956f682f.js"></script>
+<link href="https://fonts.googleapis.com/css?family=Heebo:400,500,800,900&amp;26display=swap" rel="stylesheet"/>
+<link href="https://kendo.cdn.telerik.com/2019.3.917/styles/kendo.bootstrap.min.css" rel="stylesheet"/>
+<link href="https://kendo.cdn.telerik.com/2019.3.917/styles/kendo.common.min.css" rel="stylesheet"/>
+<script src="https://kendo.cdn.telerik.com/2019.3.917/js/kendo.all.min.js"></script>
+<script src="https://kendo.cdn.telerik.com/2019.3.917/js/kendo.aspnetmvc.min.js"></script>
+<link href="favicon.ico" rel="shortcut icon"/>
+<link href="/Content/mb-home.min.css" rel="stylesheet"/>
+</head>
+<body>
+<div class="container-fluid">
+<nav class="navbar navbar-expand-lg navbar-light fixed-top">
+<a class="navbar-brand" href="/">
+<img class="img-fluid" src="/content/images/2020/MoonBoard-Logo.png"/>
+</a>
+<span class="navbar-text" id="mbtagline">Advanced indoor training for climbers since 2005</span>
+<button aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler" data-target="#navbarTogglerDemo02" data-toggle="collapse" type="button">
+<span class="navbar-toggler-icon"></span>
+</button>
+<div class="collapse navbar-collapse mbend" id="navbarTogglerDemo02">
+<ul class="navbar-nav mbend">
+<li class="nav-item dropdown">
+<a aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" id="navbarDropdown" role="button">Info &amp; Help</a>
+<div aria-labelledby="navbarDropdown" class="dropdown-menu">
+<a class="dropdown-item" href="/what-is-the-moonboard">What is the MoonBoard</a>
+<a class="dropdown-item" href="/how-to-build-your-moonboard">Build a MoonBoard</a>
+<a class="dropdown-item" href="/moonboard-app">How to use the App</a>
+<a class="dropdown-item" href="/moonboard-hold-setups">Holds &amp; Setups</a>
+<a class="dropdown-item" href="/moonboard-rules">MoonBoard Rules</a>
+<div class="dropdown-divider"></div>
+<a class="dropdown-item" href="/Faq">FAQ</a>
+</div>
+</li>
+<li class="nav-item dropdown">
+<a aria-expanded="false" aria-haspopup="true" class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" id="loginDropdown" role="button">Login</a>
+<div aria-labelledby="loginDropdown" class="dropdown-menu" id="logindropdown">
+<div class="account-profile">
+<form action="/Account/Login" data-ajax="true" data-ajax-method="post" data-ajax-mode="replace" data-ajax-success="frm_lg_ok" data-ajax-update="#val-msg" id="form0" method="post"><input name="__RequestVerificationToken" type="hidden" value="pbd-gUH5SuTb7tn5POR0_0kYKSlC9Hcxn7vZpTkHG22FUReliR52NXruWfqRuPwmxcT8tkCQoYbNRwg3_9JR2FApklwqwTJGyKON7YCjZg01"/> <div class="form-row m-0">
+<div class="form-group">
+<input aria-describedby="usernameHelp" class="form-control" data-val="true" data-val-maxlength="The field Username must be a string or array type with a maximum length of '80'." data-val-maxlength-max="80" data-val-required="The Username field is required." id="Login_Username" maxlength="80" name="Login.Username" placeholder="Username" type="text" value=""/><br/>
+<span class="field-validation-valid text-danger" data-valmsg-for="Login.Username" data-valmsg-replace="true"></span>
+</div>
+<div class="form-group">
+<input class="form-control" data-val="true" data-val-maxlength="The field Password must be a string or array type with a maximum length of '16'." data-val-maxlength-max="16" data-val-required="The Password field is required." id="Login_Password" maxlength="16" name="Login.Password" placeholder="Password" type="password"/><br/>
+<span class="field-validation-valid text-danger" data-valmsg-for="Login.Password" data-valmsg-replace="true"></span>
+<button class="btn btn-yellow" id="navlogin" type="submit">Login</button>
+</div>
+<div class="text-danger field-validation-error" id="val-msg">
+</div>
+</div>
+</form> <div class="linkforgot">Forgot     <a class="dark font-weight-bold" href="/Account/ForgotUsername">Username</a>  or <a class="dark font-weight-bold" href="/Account/ForgotPassword">Password?</a></div>
+<div class="dropdown-divider"></div>
+</div>
+</div>
+</li>
+<li class="nav-item">
+<a class="nav-link" href="/moonboard-app" id="linkapp">Get Free App<i class="fab fa-android d-none d-sm-block"></i><i class="fab fa-apple d-none d-sm-block"></i></a>
+</li>
+<li class="nav-item"><a class="nav-link" href="https://moonclimbing.com/moonboard.html" id="linkshop" target="_blank">Shop</a></li>
+</ul>
+</div>
+</nav>
+<!-- START: Home Top -->
+<section class="row px-md-4 vh-100" id="hometop">
+<div class="col-md-6 d-flex mbmiddle align-items-start flex-column">
+<div class="callout dark bg">
+<h1 class="tagline mb-0">One Wall...</h1>
+<h2 class="tagline">Unlimited Training Possibilities</h2>
+</div>
+<a class="scrolljump btn btn-dark btn-lg" href="#universal-standard" role="button"><i class="fas fa-chevron-down"></i> Discover the MoonBoard</a>
+</div>
+<!-- END COL -->
+</section>
+<!-- END SECTION -->
+<!-- START: Universal Standard -->
+<a class="anchor" id="universal-standard"></a>
+<section class="row px-md-4 vh-100" id="unistan">
+<div class="col-md-5 d-flex mbmiddle align-items-start flex-column">
+<h2 class="callout dark">A Standardised Training Wall</h2>
+<p class="dark">The MoonBoard is a standardised interactive training wall that connects a global community of climbers through shared problems and competitive performance rankings.</p>
+<div>
+<a class="scrolljump btn btn-light" href="#connect" role="button"><i class="fas fa-chevron-down"></i> Next</a> <a class="btn btn-outline-light" href="/what-is-the-moonboard" role="button"><i class="fas fa-chevron-right"></i> What is the MoonBoard?</a>
+</div>
+</div>
+<!-- END COL -->
+</section>
+<!-- END SECTION -->
+<!-- START: Connect Climb -->
+<a class="anchor" id="connect"></a>
+<section class="row px-md-4 vh-100" id="connectclimb">
+<div class="col-md-6 d-flex mbmiddle align-items-start flex-column">
+<h2 class="callout dark">Connect &amp; Climb</h2>
+<p class="dark">Use the FREE MoonBoard smartphone app to access the global network of user-generated problems. Climb problems set by your friends and climbing heroes.</p>
+<p class="dark">Connect the app to your MoonBoard to illuminate problems on the wall as you climb.</p>
+<div>
+<a class="scrolljump btn btn-light" href="#stronger" role="button"><i class="fas fa-chevron-down"></i> Next</a> <a class="btn btn-outline-light" href="/moonboard-app" role="button"><i class="fas fa-chevron-right"></i> About the App</a>
+</div>
+</div>
+<!-- END COL -->
+</section>
+<!-- END SECTION -->
+<!-- START: Stronger -->
+<a class="anchor" id="stronger"></a>
+<section class="row px-md-4 mbbetween long" id="getstronger">
+<div class="col-md-6 d-flex mbmiddle align-items-start flex-column">
+<h2 class="callout dark">Get Stronger</h2>
+<p class="dark">Register each ascent to your MoonBoard logbook and track your progress over time using the climbing performance assessment tool.</p>
+<p class="dark">View your logbook in the app or by logging into the MoonBoard website.</p>
+<a class="scrolljump btn btn-light" href="#set" role="button"><i class="fas fa-chevron-down"></i> Next</a>
+</div>
+<!-- END COL -->
+<div class="col-md-5 d-flex mbmiddle align-items-start flex-column"> <img class="img-fluid" src="/content/images/2020/home/mb-logbook-chart.jpg"/> </div>
+<!-- END COL -->
+</section>
+<!-- END SECTION -->
+<!-- START: Set -->
+<a class="anchor" id="set"></a>
+<section class="row px-md-4 mbbetween long" id="setmb">
+<div class="col-md-6 d-flex mbmiddle align-items-start flex-column">
+<h2 class="callout light">Add Problems</h2>
+<p>Create and upload your MoonBoard problems to the app for other users around the world to climb.</p>
+<div>
+<a class="scrolljump btn btn-dark" href="#start" role="button"><i class="fas fa-chevron-down"></i> Next</a> <a class="btn btn-outline-dark" href="/moonboard-hold-setups" role="button"><i class="fas fa-chevron-right"></i> Holds &amp; Setups</a>
+</div>
+</div>
+<!-- END COL -->
+<div class="col-md-4 d-flex mbmiddle align-items-start flex-column"> <img class="w300" src="/content/images/2020/home/mb-setproblems-min.png"/> </div>
+<!-- END COL -->
+</section>
+<!-- END SECTION -->
+<!-- START: Start -->
+<a class="anchor" id="start"></a>
+<section class="row px-md-4 vh-100" id="startmb">
+<div class="col-md-6 d-flex mbmiddle align-items-start flex-column">
+<h2 class="callout">Get Started</h2>
+<p>Build your own MoonBoard or discover a MoonBoard gym near you to begin the next step of your climbing training journey.</p>
+<div><a class="btn btn-dark" href="/how-to-build-your-moonboard" role="button"><i class="fas fa-tools"></i> Build a MoonBoard</a></div>
+</div>
+<!-- END COL -->
+</section>
+<!-- END SECTION -->
+<div id="footer"></div>
+<footer class="row align-items-center px-3 py-3">
+<div class="col-md-4">
+<nav class="nav flex-column text-center text-md-left"> <a class="nav-link" href="/privacy-policy">Privacy Policy</a><a class="nav-link" href="/cookie-policy" target="_blank">Cookie Policy</a> <a class="nav-link" href="/Faq">FAQ</a></nav>
+</div>
+<div class="col-md-4 text-center" id="socials"><a href="https://www.facebook.com/moonclimbing/" target="_blank"><i class="fab fa-facebook"></i></a> <a href="https://www.twitter.com/moonclimbing/" target="_blank"><i class="fab fa-twitter"></i></a> <a href="https://www.instagram.com/moonclimbing" target="_blank"><i class="fab fa-instagram"></i></a></div>
+<div class="col-md-4 text-center text-md-right" id="copyright">©2012-2019, Moon Climbing. All Rights Reserved.</div>
+</footer>
+</div>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-73435918-1"></script>
+<script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-73435918-1');
+
+
+        $(document).click(function (event) {
+            $('.navbar-collapse').collapse('hide');
+        });
+
+
+        function frm_lg_ok(e) {
+
+            if (e.dir) {
+                window.location.href = e.dir;
+            }
+        }
+
+    </script>
+</body>
+</html>
+
