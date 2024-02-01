@@ -1,6 +1,6 @@
 let moonboard = document.querySelector('.moonboard');
 
-
+let selected_holds = [];
 
 /* * * * * * * * * * * * * * * * * * * * * * 
 
@@ -13,6 +13,7 @@ for (let i = 0; i < 20; i++) {
     row.classList.add(`row-${i}`);
     for(let j = 0; j < 10; j++) {
         let btn = document.createElement('button');
+        btn.classList.add(`hold`);
         btn.classList.add(`btn-${i}-${j}`);
 
         // let buttonLabel = buttonMapping[i][j];
