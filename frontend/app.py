@@ -8,6 +8,9 @@ def buttonGrid(n: int, m: int) -> None:
                 # st.checkbox(f'button {i}, {j}')
                 st.checkbox(label = 'button {i},{j}', key=(i,j), label_visibility="hidden")
         i += 1
+        
+def buttonGrid2(n: int, m: int) -> None:
+    pass
 
 st.title("Route Grader")
 
