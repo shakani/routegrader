@@ -11,4 +11,4 @@ def buttonGrid(n: int, m: int) -> None:
 
 st.title("Route Grader")
 
-buttonGrid(5, 5)
+buttonGrid(20, 10)
