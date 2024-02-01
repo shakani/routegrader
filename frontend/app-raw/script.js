@@ -1,5 +1,13 @@
 let moonboard = document.querySelector('.moonboard');
 
+
+
+/* * * * * * * * * * * * * * * * * * * * * * 
+
+                DOM CREATION 
+
+* * * * * * * * * * * * * * * * * * * * * */
+
 for (let i = 0; i < 20; i++) {
     let row = document.createElement('div');
     row.classList.add(`row-${i}`);
