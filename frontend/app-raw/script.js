@@ -1,31 +1,65 @@
-let moonboard = document.querySelector('.moonboard');
+const gridContainer = document.querySelector('.grid-container');
+const gridSizeInPixels = 580;
+const nSizeMax = Math.round(Math.sqrt(gridSizeInPixels));
 
-let selected_holds = [];
+// grid resize
+function gridGenerator(nSize) {
+    let grid = [];
 
-/* * * * * * * * * * * * * * * * * * * * * * 
-
-                DOM CREATION 
-
-* * * * * * * * * * * * * * * * * * * * * */
-
-for (let i = 0; i < 20; i++) {
-    let row = document.createElement('div');
-    row.classList.add(`row-${i}`);
-    for(let j = 0; j < 10; j++) {
-        let btn = document.createElement('button');
-        btn.classList.add(`hold`);
-        btn.classList.add(`btn-${i}-${j}`);
-
-        // let buttonLabel = buttonMapping[i][j];
-        // let buttonLabel = `button-${i}-${j}`;
-        let buttonLabel = 'hold';
-
-        btn.textContent = buttonLabel;
-        // if (Array.from('1234567890+-*/').includes(buttonLabel)) { // numbers and operations
-        //     btn.addEventListener('click', () => appendDisplayValue(buttonLabel));
-        // }
-
-        row.appendChild(btn);
+    for (let i = 0; i < nSize; i++) {
+        grid[i] = [];
     }
-    moonboard.appendChild(row);
+
+    for (let i = 0; i < nSize; i++) {
+        let row = document.createElement('div'); // row container
+        row.classList.add('row')
+        for (let j = 0; j < nSize; j++) {
+            grid[i][j] = document.createElement('div');
+            grid[i][j].classList.add('cell');
+            grid[i][j].addEventListener('mouseover', () => grid[i][j].style.backgroundColor = 'pink');
+            row.appendChild(grid[i][j]);
+        }
+        gridContainer.appendChild(row);
+    }
+
+    // const gridSizeInPixels = 540;
+    const cellSizeInPixels = Math.round(gridSizeInPixels / nSize);
+    let cells = document.querySelectorAll('.cell');
+    cells.forEach((cell) => {
+    cell.style.height = `${cellSizeInPixels}px`;
+    cell.style.width = `${cellSizeInPixels}px`;
+    });
 }
+
+function deleteGrid() {
+    while (gridContainer.firstChild) {
+        console.log('Deleting');
+        gridContainer.removeChild(gridContainer.firstChild);
+    }
+}
+
+function resizeGrid() {
+    deleteGrid();
+    let nSize = nSizeMax;
+    while (nSize >= nSizeMax) { // get a reasonable grid size
+        nSize = parseInt(prompt('Enter new grid size: '));
+    }
+    gridGenerator(nSize);
+}
+
+function eraseGrid() {
+    let cells = document.querySelectorAll('.cell');
+    cells.forEach((cell) => {
+    cell.style.backgroundColor = 'white';
+    });
+}
+
+// button listeners
+const resizeButton = document.querySelector('#resize');
+resizeButton.addEventListener('click', () => resizeGrid());
+
+const eraseButton = document.querySelector('#erase');
+eraseButton.addEventListener('click', () => eraseGrid());
+
+// main
+gridGenerator(16);
