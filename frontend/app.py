@@ -1,19 +1,11 @@
 import streamlit as st 
-
-def buttonGrid(n: int, m: int) -> None:
-    i = 0
-    for col in st.columns([1] * m):
-        with col:
-            for j in range(n):
-                # st.checkbox(f'button {i}, {j}')
-                st.checkbox(label = 'button {i},{j}', key=(i,j), label_visibility="hidden")
-        i += 1
+import streamlit.components.v1 as components
         
-def buttonGrid2(n: int, m: int) -> None:
+def buttonGrid(n: int, m: int) -> None:
     markdown_str = ''
     for row in range(n):
         for col in range(m):
-            markdown_str += '<input type="checkbox"></input>'
+            markdown_str += f'<input type="checkbox" id="hold-{row}-{col}" class="hold"></input>'
     markdown_str = f'<div class="moonboard">{markdown_str}</div>'
     st.markdown(markdown_str, unsafe_allow_html=True)
     st.markdown("""
@@ -26,13 +18,28 @@ def buttonGrid2(n: int, m: int) -> None:
                 }
                 
                 input {
-                    width: 50px;
-                    height: 50px;
+                    width: 20px;
+                    height: 20px;
                 }
                 </style>
                 """,unsafe_allow_html=True)
 
 st.title("Route Grader")
 
-# buttonGrid(20, 10)
-buttonGrid2(20,10)
+if st.button('Grade This Route'):
+    components.html("""<script>
+                    
+    let moonboard = document.querySelectorAll("input.hold");
+    let selected_holds = [];
+    for (let i = 0; i < moonboard.length; i++) {
+        if (moonboard[i].check) {
+            alert(i);
+        }
+    }
+    
+    alert(selected_holds);
+    
+                    
+                    </script>""")
+
+buttonGrid(20,10)
