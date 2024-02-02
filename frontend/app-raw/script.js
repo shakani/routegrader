@@ -51,7 +51,10 @@ function resizeGrid() {
 function eraseGrid() {
     let cells = document.querySelectorAll('.cell');
     cells.forEach((cell) => {
-    cell.style.backgroundColor = 'white';
+    // cell.style.backgroundColor = 'white';
+    if (cell.classList.contains('cell-selected')) {
+        cell.classList.toggle('cell-selected');
+    }
     });
 }
 
