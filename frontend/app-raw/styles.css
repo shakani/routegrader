@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    background-color: #bec1cf;
     display: flex;
     flex-direction: column;
     justify-content: center;
