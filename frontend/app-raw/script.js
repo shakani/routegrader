@@ -3,7 +3,7 @@ const gridSizeInPixels = 580;
 const nSizeMax = Math.round(Math.sqrt(gridSizeInPixels));
 
 // grid resize
-function gridGenerator(nSize) {
+function gridGenerator(nSize, mSize) {
     let grid = [];
 
     for (let i = 0; i < nSize; i++) {
@@ -13,7 +13,7 @@ function gridGenerator(nSize) {
     for (let i = 0; i < nSize; i++) {
         let row = document.createElement('div'); // row container
         row.classList.add('row')
-        for (let j = 0; j < nSize; j++) {
+        for (let j = 0; j < mSize; j++) {
             grid[i][j] = document.createElement('div');
             grid[i][j].classList.add('cell');
             // grid[i][j].addEventListener('click', () => grid[i][j].style.backgroundColor = 'blue');
@@ -45,7 +45,7 @@ function resizeGrid() {
     while (nSize >= nSizeMax) { // get a reasonable grid size
         nSize = parseInt(prompt('Enter new grid size: '));
     }
-    gridGenerator(nSize);
+    gridGenerator(nSize, nSize);
 }
 
 function eraseGrid() {
@@ -66,4 +66,4 @@ const eraseButton = document.querySelector('#erase');
 eraseButton.addEventListener('click', () => eraseGrid());
 
 // main
-gridGenerator(16);
+gridGenerator(20, 10);
