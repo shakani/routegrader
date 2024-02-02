@@ -23,23 +23,13 @@ def buttonGrid(n: int, m: int) -> None:
                 }
                 </style>
                 """,unsafe_allow_html=True)
-
 st.title("Route Grader")
+gradeButton = st.button("Grade This Route")
 
-if st.button('Grade This Route'):
-    components.html("""<script>
-                    
-    let moonboard = document.querySelectorAll("input.hold");
-    let selected_holds = [];
-    for (let i = 0; i < moonboard.length; i++) {
-        if (moonboard[i].check) {
-            alert(i);
-        }
-    }
+if gradeButton:
+    st.markdown("""<script>
+    console.log("hello");
     
-    alert(selected_holds);
-    
-                    
-                    </script>""")
+                    </script>""", unsafe_allow_html=True)
 
 buttonGrid(20,10)
