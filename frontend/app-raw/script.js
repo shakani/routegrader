@@ -16,7 +16,8 @@ function gridGenerator(nSize) {
         for (let j = 0; j < nSize; j++) {
             grid[i][j] = document.createElement('div');
             grid[i][j].classList.add('cell');
-            grid[i][j].addEventListener('mouseover', () => grid[i][j].style.backgroundColor = 'pink');
+            // grid[i][j].addEventListener('click', () => grid[i][j].style.backgroundColor = 'blue');
+            grid[i][j].addEventListener('click', () => grid[i][j].classList.toggle('cell-selected'));
             row.appendChild(grid[i][j]);
         }
         gridContainer.appendChild(row);
