@@ -32,5 +32,13 @@ body {
 }
 
 .cell:hover {
-    background-color: pink;
+    background-color: lightblue;
+}
+
+.cell-selected {
+    background-color: blue;
+}
+
+.cell-unselected {
+    background-color: white;
 }
