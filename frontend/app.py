@@ -12,7 +12,7 @@ st.title("Route Grader")
 
 grade = st.button("Grade Route")
 
-df = pd.DataFrame([{f"col-{col}" : False for col in range(11)} for row in range(18)])
+df = pd.DataFrame([{f"{chr(ord('A')+col)}" : False for col in range(11)} for row in range(18)])
 edited_df = st.data_editor(df)
 
 with open('linear_model.pickle', 'rb') as handle:
@@ -24,5 +24,5 @@ if grade:
     output = parse(edited_df)
     df_input = pd.DataFrame({'holds' : [output]})
     pred = linear_model.predict(df_input)
-    n_pred = label_pipeline[]
-    st.markdown(pred)
+    n_pred = label_pipeline['scaler'].inverse_transform(pred)
+    st.info(n_pred)
