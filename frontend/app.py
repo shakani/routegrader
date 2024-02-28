@@ -7,6 +7,8 @@ import linear_model
 from linear_model import DictEncoder
 from linear_model import LabelEncoder
 
+from grader import convert_grade
+
 
 st.title("Route Grader")
 
@@ -24,5 +26,6 @@ if grade:
     output = parse(edited_df)
     df_input = pd.DataFrame({'holds' : [output]})
     pred = linear_model.predict(df_input)
-    n_pred = label_pipeline['scaler'].inverse_transform(pred)
+    n_pred = label_pipeline['scaler'].inverse_transform(pred)[0][0]
+    n_pred = convert_grade(n_pred)
     st.info(n_pred)
