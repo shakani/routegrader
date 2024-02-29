@@ -11,10 +11,22 @@ from grader import convert_grade
 
 
 st.title("Route Grader")
+github_url = "https://github.com/shakani/"
 repo_url = "https://github.com/shakani/routegrader"
-st.markdown(f"\xa9 2024 [shakani]({repo_url})")
+st.markdown(f"\xa9 2024 [Sami Hakani]({github_url})")
 
 grade = st.button("Grade Route")
+
+with st.sidebar:
+    st.title('Understanding Your Grade')
+    st.markdown(f"""
+    Click on the checkboxes to indicate the holds in your Moonboard route. \n
+    Click on the "Grade Route" button to receive your grade. \n
+    Routes are graded on the French (Fontainebleau) Grading Scale (e.g. 7A) plus an interpolation factor indicating how close it is to the next level up.
+    For example, a grade of "7A plus 50%" indicates that the route is halfway between 7A and 7A+. \n
+    Be sure to star [the repo]({repo_url}) on Github!
+                """)
+
 
 df = pd.DataFrame([{f"{chr(ord('A')+col)}" : False for col in range(11)} for row in range(18)])
 edited_df = st.data_editor(df)
