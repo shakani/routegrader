@@ -24,7 +24,7 @@ with st.sidebar:
     Click on the "Grade Route" button to receive your grade. \n
     Routes are graded on the French (Fontainebleau) Grading Scale (e.g. 7A) plus an interpolation factor indicating how close it is to the next level up.
     For example, a grade of "7A plus 50%" indicates that the route is halfway between 7A and 7A+. \n
-    Be sure to star [the repo]({repo_url}) on Github!
+    Be sure to star [the repo]({repo_url}) on GitHub!
                 """)
 
 
