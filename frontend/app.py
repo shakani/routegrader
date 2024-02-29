@@ -11,6 +11,8 @@ from grader import convert_grade
 
 
 st.title("Route Grader")
+repo_url = "https://github.com/shakani/routegrader"
+st.markdown(f"\xa9 2024 [shakani]({repo_url})")
 
 grade = st.button("Grade Route")
 
