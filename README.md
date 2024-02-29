@@ -4,6 +4,8 @@ Rock climbing is an increasingly popular sport that helps you stay in shape and 
 
 That’s where RouteGrader can help!
 
+![dataframe preview](/figures/preview.png)
+
 Climbing gyms have standardized interactive training walls called Moonboards. The online Moonboard community has collected and graded thousands of routes that can be configured at your local gym. Using RouteGrader, you can design your own custom route and have it graded on the spot! 
 
 RouteGrader is a great tool to help new climbers get started with their Moonboard training, but it’s also useful for veteran climbers too. 
